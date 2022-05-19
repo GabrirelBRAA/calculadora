@@ -1,1 +1,2 @@
-# calculadora simples, mas que pretendo tornar em uma científica
+# calculadora simples, usando tkinter.
+
